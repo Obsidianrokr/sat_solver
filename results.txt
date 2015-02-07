@@ -1,0 +1,8 @@
+data/
+ time: 5.067147557666667 wlist: 187 solved 8 value: 200
+ time: 7.408728427 wlist: 160 solved 5 value: 300
+ time: 10.908165220666667 wlist: 167 solved 7 value: 400
+ time: 10.598476809333333 wlist: 173 solved 6 value: 500
+ time: 16.932098995333334 wlist: 177 solved 7 value: 600
+data/
+ time: 96.052772429 wlist: 194 solved 16
