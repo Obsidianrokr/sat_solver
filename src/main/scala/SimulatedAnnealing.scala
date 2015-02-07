@@ -11,7 +11,7 @@ class SimulatedAnnealing (satEquation: SatEquation) {
 
   def computeEquation (equilibrium: Int, startTemp: Double, endTemp: Double, coolingCoefficient: Double) = {
     var temp = startTemp
-    var values = (1 to n).map(x=> true).toList
+    var values = (1 to n).map(x=> Random.nextBoolean()).toList
 
     var bestValues = List[Boolean]()
     var valuesFitnessWeight = fitness(values)
